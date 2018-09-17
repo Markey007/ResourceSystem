@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 248ac77897cb2564eac03c1c26a1b02e, type: 3}
+  m_Name: ResourcesInfo
+  m_EditorClassIdentifier: 
+  Data:
+  - ID: 1a1031227aa7176dd66c12b8d7de41f0
+    Name: Resources
+    Path: Config
+    version: 
+    Dependencys:
+    - 
+    DependeciedNum: 0
+  - ID: c022f57cc3237a6cf3f1d1cdc79d6eb8
+    Name: red
+    Path: Materials
+    version: 
+    Dependencys:
+    - 
+    DependeciedNum: 2
+  - ID: 98a591f83575a5f4656bbe5efac2561f
+    Name: Cube 2
+    Path: Prefabs
+    version: 
+    Dependencys:
+    - red
+    DependeciedNum: 0
+  - ID: 118c4b1f3ea30768b5536aa841ea6436
+    Name: ResourcesInfo
+    Path: ScriptableObject
+    version: 
+    Dependencys:
+    - ResourcesInfo
+    DependeciedNum: 1
+  - ID: 85ce8295f056e36eecd2ac79e6426173
+    Name: Cube 1
+    Path: Prefabs
+    version: 
+    Dependencys:
+    - red
+    DependeciedNum: 0
+  - ID: ee8352eaa0bc9fdf236c6d076f78c4b3
+    Name: Cube
+    Path: 
+    version: 
+    Dependencys:
+    - red
+    DependeciedNum: 0
+  - ID: 15b41d69372c4482e23cc15d9270b1d4
+    Name: Cube 11
+    Path: Prefabs
+    version: 
+    Dependencys:
+    - red
+    DependeciedNum: 0
+  - ID: 1f02af718c7c7c624907d13c268b9129
+    Name: Cube 12
+    Path: Prefabs
+    version: 
+    Dependencys:
+    - red
+    DependeciedNum: 0
+  - ID: 711f3291e931cc820028f9f57e2a3d7c
+    Name: Cube 4
+    Path: Prefabs
+    version: 
+    Dependencys:
+    - red
+    DependeciedNum: 0
+  - ID: 69addc8c7d4ec3684f1b82f5cc779ce4
+    Name: Cube 5
+    Path: Prefabs
+    version: 
+    Dependencys:
+    - red
+    DependeciedNum: 0
+  - ID: 395b4d4ae08a1f3a6bf3c057d52fa8ed
+    Name: Cube 6
+    Path: Prefabs
+    version: 
+    Dependencys:
+    - red
+    DependeciedNum: 0
+  - ID: 1fd05c5b05ee21d7a261f4137d9f851a
+    Name: Cube 7
+    Path: Prefabs
+    version: 
+    Dependencys:
+    - red
+    DependeciedNum: 0
+  - ID: ced98fa98db7df86daf425cca895e284
+    Name: Cube 8
+    Path: Prefabs
+    version: 
+    Dependencys:
+    - red
+    DependeciedNum: 0
+  - ID: d1370aa48968878a9cadfcc65d2fa50c
+    Name: Cube 9
+    Path: Prefabs
+    version: 
+    Dependencys:
+    - red
+    DependeciedNum: 0
